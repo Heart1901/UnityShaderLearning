@@ -1,0 +1,57 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/Recordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.sln.DotSettings.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# Crash reports
+/[Cc]rashes/
+crashlytics-build.properties
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.pidb.meta
+
+# Rider generated
+*.DotSettings.user
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Local scratch/output folders
+/tmp/
+/output/
+/.agents/
