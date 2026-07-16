@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JourneyTribute
+  m_Shader: {fileID: 4800000, guid: 190dc5998de6462a9525ec8ef4bdda68, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _CloudAmount: 0.95
+    - _DuneContrast: 1.45
+    - _ParticleAmount: 1.15
+    - _SunGlow: 2.15
+    - _TimeScale: 0.65
+    - _TravelerScale: 1.18
+    m_Colors:
+    - _DuneFar: {r: 0.77, g: 0.34, b: 0.24, a: 1}
+    - _DuneNear: {r: 1, g: 0.59, b: 0.19, a: 1}
+    - _RobeColor: {r: 0.46, g: 0.055, b: 0.07, a: 1}
+    - _ScarfColor: {r: 1, g: 0.72, b: 0.22, a: 1}
+    - _SkyHorizon: {r: 1, g: 0.63, b: 0.31, a: 1}
+    - _SkyTop: {r: 0.64, g: 0.42, b: 0.72, a: 1}
+    - _SunColor: {r: 1, g: 0.86, b: 0.34, a: 1}
+  m_BuildTextureStacks: []
